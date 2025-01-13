@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Katya_dz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A39FEAE-C08D-4C0B-83D6-9D3332A2FD3F}|Katya_dz.vcxproj|C:\\Users\\User\\source\\repos\\Katya_dz\\Katya_dz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A39FEAE-C08D-4C0B-83D6-9D3332A2FD3F}|Katya_dz.vcxproj|solutionrelative:Katya_dz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Katya_dz.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Katya_dz\\Katya_dz.cpp",
+              "RelativeDocumentMoniker": "Katya_dz.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Katya_dz\\Katya_dz.cpp",
+              "RelativeToolTip": "Katya_dz.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAlwGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T10:12:50.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

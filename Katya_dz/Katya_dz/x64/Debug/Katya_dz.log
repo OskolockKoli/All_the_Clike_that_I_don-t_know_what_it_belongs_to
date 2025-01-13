@@ -1,0 +1,17 @@
+﻿  Katya_dz.cpp
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(127,13): error C2660: IsOptimalPlan: функция не принимает 1 аргументов
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(138,21): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(142,34): error C2672: "std::make_pair": не найдена соответствующая перегруженная функция
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(153,17): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(154,9): error C2593: неоднозначный "оператор <<"
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(162,28): error C3861: accumulate: идентификатор не найден
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(170,28): error C3861: accumulate: идентификатор не найден
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(178,19): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "const std::map<char,double,std::less<char>,std::allocator<std::pair<const char,double>>>" (или приемлемое преобразование отсутствует)
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(178,39): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "const std::map<char,double,std::less<char>,std::allocator<std::pair<const char,double>>>" (или приемлемое преобразование отсутствует)
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(178,60): error C2065: cost: необъявленный идентификатор
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(178,77): error C2065: supply: необъявленный идентификатор
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(184,19): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "const std::map<char,double,std::less<char>,std::allocator<std::pair<const char,double>>>" (или приемлемое преобразование отсутствует)
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(184,39): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "const std::map<char,double,std::less<char>,std::allocator<std::pair<const char,double>>>" (или приемлемое преобразование отсутствует)
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(184,60): error C2065: cost: необъявленный идентификатор
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(184,77): error C2065: demand: необъявленный идентификатор
+C:\Users\User\source\repos\Katya_dz\Katya_dz.cpp(206,5): error C2664: "void SolveTransportationProblem(const std::vector<int,std::allocator<int>> &,const std::vector<int,std::allocator<int>> &,int [])": невозможно преобразовать аргумент 1 из "int [6]" в "const std::vector<int,std::allocator<int>> &"

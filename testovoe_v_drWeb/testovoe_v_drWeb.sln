@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testovoe_v_drWeb", "testovoe_v_drWeb.vcxproj", "{36A26288-F008-4BF9-8A84-6FE197173DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Debug|x64.ActiveCfg = Debug|x64
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Debug|x64.Build.0 = Debug|x64
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Debug|x86.Build.0 = Debug|Win32
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Release|x64.ActiveCfg = Release|x64
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Release|x64.Build.0 = Release|x64
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Release|x86.ActiveCfg = Release|Win32
+		{36A26288-F008-4BF9-8A84-6FE197173DE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BACCDBA-CD4E-411A-81D1-F48B325CFECA}
+	EndGlobalSection
+EndGlobal
